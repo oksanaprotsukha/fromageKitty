@@ -14,3 +14,4 @@ burritos_cost(price, count)
 \description{
 Calculate total burrito cost
 }
+
